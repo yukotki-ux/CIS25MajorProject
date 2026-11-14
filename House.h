@@ -1,3 +1,6 @@
+
+// This class manages house's value and status while relating to "remodel" class.
+// "House" has "Room"
 class House {
     private:
         int value;

@@ -1,3 +1,5 @@
+This class has the information about family members' preference and satisfaction.
+
 class FamilyMember {
     private:
         string name;
